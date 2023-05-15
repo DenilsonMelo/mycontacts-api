@@ -15,5 +15,6 @@ module.exports = {
     'class-methods-use-this': 'off',
     'consistent-return': 'off',
     camelcase: 'off',
+    'import/no-extraneous-dependencies': 'off',
   },
 };
